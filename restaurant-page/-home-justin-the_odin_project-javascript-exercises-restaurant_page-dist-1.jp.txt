@@ -1,0 +1,10 @@
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/1.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/2.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/3.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/4.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/5.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/headerphoto.jpg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/index.html
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/main.js
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/restaurant.jpeg
+/home/justin/the_odin_project/javascript-exercises/restaurant_page/dist/styles.css
