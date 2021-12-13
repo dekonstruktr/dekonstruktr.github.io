@@ -1,0 +1,45 @@
+Desirable pages
+>>>>>>>>>>>>>>>>>>>>>
+
+
+0) Landing page / Services (index.php)
+----------------------------
+Include: 
+call-to-action for a "Get a Quote"
+"To schedule a service visit, call 619-555-5555. We will get back to you right away. We are happy to help you with all your electrical services!" -- 
+List of services and service areas
+images
+
+
+1) About Us (about_us.php)
+----------------
+Include:
+info on who we are
+
+
+2) Electrical Service FAQs (FAQs.php)
+---------------------------
+FAQ list to help educate customers
+
+
+
+3) Discounts and Specials (discounts.php)
+---------------------------
+List military and senior discounts.
+List links to rebate and tax incentive research sites.
+
+
+ON ALL PAGES:
+--SOCIAL MEDIA and contractor review sites somewhere on the page: 
+Facebook, Yelp, Angie's List
+
+--Contractor CA License #1234567
+
+--Fully insured
+
+--phone 619-555-5555
+
+
+
+
+
