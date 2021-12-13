@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin: 0; background-color: beige;}
+ul{margin: 0; padding: 0;}
+section#content{width: 80%; margin: auto; padding: 1.5em; box-sizing: border-box; background: rgba(255,255,255,0.97); }
+
+
+/* addresses random image pulled into html via img tag */
+
+.random-image{ margin: 0 auto; box-sizing: border-box;}
+        .random-image img { width: 100%; border:3px solid #000}
+
+/* address jquery lightbox  */
+
+.gallery {
+        width: 80%;
+        padding: 0;
+        margin: 0 auto;
+}
+h2.gallery {
+        margin-bottom: 2%;
+        color: rosybrown;
+}
+ul.gallery {
+        overflow: hidden;
+}
+.gallery li {
+        list-style: none;
+        float: left;
+        margin: 5px;
+        box-sizing: border-box;
+        box-shadow: 0 2px 8px 1px rgba(0,0,0,0.3);
+        width: 25%;
+        max-width: 200px;
+}
+
+.gallery li a img {
+        display: block;
+        width: 100%;
+}
