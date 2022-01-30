@@ -176,7 +176,7 @@
             function e() {
                 const e = document.getElementById("content"),
                     n = new Image(640);
-                (n.src = "headerphoto.jpg"), (n.id = "splashimage"), n.classList.add("centered"), e.appendChild(n);
+                (n.src = "./headerphoto.jpg"), (n.id = "splashimage"), n.classList.add("centered"), e.appendChild(n);
                 const t = document.createElement("div");
                 (t.id = "name"), (t.textContent = "La Osteria Italiana"), t.classList.add("centered"), e.appendChild(t);
                 const a = document.createElement("div");
